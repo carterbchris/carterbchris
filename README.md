@@ -11,6 +11,5 @@ Join me as I jump out of my logistics/warehousing career to plung into the world
 
 🚀 Want to get in touch or see my portfolio?
 
-   Send me an email carterbchris@gmail.com
-
-   Connect w/ me on LinkedIn https://www.linkedin.com/in/cbcarter97
+   - Send me an email carterbchris@gmail.com
+   - Connect w/ me on LinkedIn https://www.linkedin.com/in/cbcarter97

@@ -7,7 +7,7 @@ Join me as I jump out of my logistics/warehousing career to plung into the world
    - React
    - Javascript
 
-🔭 I’m currently working on (TheOdinProject.com) and another (freeCodeCamp) certificate!
+🔭 I’m currently working with #100Devs and (TheOdinProject.com)!
 
 🚀 Want to get in touch or see my portfolio?
 

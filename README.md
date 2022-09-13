@@ -1,6 +1,5 @@
-Hey, I’m Chris!
-
-A Warehouse/Logistics Analyst turned FullStack Software Engineer
+<h1 align="center">Hi 👋, I'm Chris</h1>
+<h3 align="center">A Warehouse/Logistics Analyst turned FullStack Software Engineer</h3>
 
 🌱 I’m currently learning... loads of backend developement
 

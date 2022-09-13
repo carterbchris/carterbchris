@@ -1,13 +1,10 @@
 Hey, I’m Chris!
 
-Join me as I jump out of my logistics/warehousing career to plung into the world of software development.
+A Warehouse/Logistics Analyst turned FullStack Software Engineer
 
-🌱 I’m currently learning...
+🌱 I’m currently learning... loads of backend developement
 
-   - React
-   - Javascript
-
-🔭 I’m currently working with #100Devs and (TheOdinProject.com)!
+🔭 I’m currently working with javascript through #100devs!
 
 🚀 Want to get in touch or see my portfolio?
 
